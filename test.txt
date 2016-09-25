@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 add task
-=======
 Hello world
 Hello Git
 vrey good
 this msater
-
->>>>>>> master
